@@ -42,6 +42,4 @@ Note: The notebook is optimized for Google Colab. If you run it there, the requi
 - Calendar anomalies: All purely univariate models failed to anticipate the severe weekend traffic collapse in commercial districts (for example, Square ID 5259) because they lacked exogenous day-of-week variables.
 
 ## Project Deliverables
-
-- Full Research Report: [Insert Link to PDF]
-- Video Presentation: [Insert Link to Video]
+- Video Presentation: [[Video](https://drive.google.com/file/d/1bFJe6b78t6ODd5SToFV26FbJ-mf7kBvx/view?usp=sharing)]
